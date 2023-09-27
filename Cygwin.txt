@@ -1,0 +1,6 @@
+#Run the .sh files in the Cygwin64 Terminal
+#install Cygwin64 Terminal
+#Go to the .sh file folder (My file is stored in C/Users/Manoj.Lamichhane/Desktop/HLSA)
+cd /cygdrive/C/Users/Manoj.Lamichhane/Desktop/HLSA
+#run the file (My file name is 4436842146-download.sh)
+./4024384604-download.sh
