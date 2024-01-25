@@ -1,6 +1,6 @@
 #Run the .sh files in the Cygwin64 Terminal
 #install Cygwin64 Terminal
-#Go to the .sh file folder (My file is stored in C/Users/Manoj.Lamichhane/Desktop/HLSA)
-cd /cygdrive/C/Users/Manoj.Lamichhane/Desktop/HLSA
+#Go to the .sh file folder (My file is stored in C/Users/Manoj.Lamichhane/Desktop/HLSA) ##please dont put any space inf ile location, if there will be anty space, you mut put your conde in inverted comma line cd "/cygdrive/C/Users/Manoj.Lamichhane/Desktop/HLSA Data"
+cd /cygdrive/C/Users/Manoj.Lamichhane/Desktop/HLSA_Data (no need inverted comma because there is  no any space in file location name)
 #run the file (My file name is 4436842146-download.sh)
 ./4024384604-download.sh
